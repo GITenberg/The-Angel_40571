@@ -1,0 +1,29 @@
+_repo: The-Angel_40571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+description: ''
+gutenberg_issued: '2012-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Christian fiction'
+title: The Angel
+url: http://www.gutenberg.org/ebooks/40571
